@@ -1,0 +1,17 @@
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.csproj.AssemblyReference.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.csproj.ResolveComReference.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\MainWindow.g.cs
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\App.g.cs
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4_MarkupCompile.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4_MarkupCompile.lref
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\bin\Debug\pr4.exe.config
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\bin\Debug\pr4.exe
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\bin\Debug\pr4.pdb
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\MainWindow.baml
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.g.resources
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.Properties.Resources.resources
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.csproj.GenerateResource.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.exe
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\pr4\pr4\obj\Debug\pr4.pdb
