@@ -50,43 +50,6 @@ namespace pr4
             {
                 MessageBox.Show("Ошибок в тексте нет", "Корректный синтаксис");
             }
-
         }
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-        /*Microsoft.Office.Interop.Word.Application wordApp = new Microsoft.Office.Interop.Word.Application();
-
-        Document doc = wordApp.Documents.Add();
-        string text = Txt_box.Text;
-
-        doc.Content.Text = text;
-            doc.CheckSpelling();
-            int errorDoc = doc.SpellingErrors.Count;
-
-            if (errorDoc == 0)
-            {
-                MessageBox.Show("Ошибок в тексте нет", "Корректный синтаксис");
-            }
-            else
-            {
-                MessageBox.Show($"Обнаружены орфографические ошибки в тексте, количество: {errorDoc}", "Не корректный синтаксис");
-            }*/
-
-
-
     }
 }
